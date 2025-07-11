@@ -12,7 +12,8 @@ ml-transition/
 ├── blog-posts/                # ML-related blog posts and articles
 ├── my-projects/               # Personal machine learning projects
 ├── youtube-channels/          # Projects inspired by ML YouTube channels
-└── deeplearning.ai-course/    # Coursework from deeplearning.ai specializations
+├── deeplearning.ai-course/    # Coursework from deeplearning.ai specializations
+└── ml-videos/                 # ML-related videos, conference talks, and educational content
 ```
 
 ## Directory Descriptions
@@ -49,6 +50,13 @@ Projects inspired by various ML YouTube channels and tutorials
 
 ### deeplearning.ai-course/
 Assignments, projects, and implementations from deeplearning.ai courses
+
+### ml-videos/
+Collection of ML-related videos, conference talks, and educational content:
+- Conference presentations (NeurIPS, ICML, ICLR)
+- Technical talks and workshops
+- Educational video series
+- Research presentations
 
 ---
 
