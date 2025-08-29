@@ -23,4 +23,3 @@ FastAI makes deep learning accessible and practical. This directory will include
 - [FastAI Course](https://course.fast.ai/)
 - [FastAI Documentation](https://docs.fast.ai/)
 - [FastAI Book](https://github.com/fastai/fastbook) 
-- [How to FastAI](https://youtu.be/gGxe2mN3kAg?si=7OFFTOHxc7ZC81xA)
